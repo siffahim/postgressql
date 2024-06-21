@@ -1,4 +1,4 @@
--- Active: 1717176845480@@127.0.0.1@5432@test2
+
 # database,Create,Rename,Delete
 CREATE DATABASE TEST2;
 ALTER DATABASE test2 RENAME TO test3;
